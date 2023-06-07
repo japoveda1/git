@@ -10,3 +10,8 @@ https://gitforwindows.org/
 
 LINUX :
 https://git-scm.com/download/linux
+
+
+# Repositorio nuevo
+Crear una carpeta nueva, ábrirla y ejecutar  
+**git init**  
